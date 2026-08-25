@@ -1,5 +1,8 @@
 # Привет! Я Герман 👋
-
+![QA](https://img.shields.io/badge/QA-Testing-blue)
+![C#](https://img.shields.io/badge/C%23-.NET-purple)
+![SQL](https://img.shields.io/badge/SQL-Learning-orange)
+![Git](https://img.shields.io/badge/Git-GitHub-black)
 ## Junior QA Engineer
 
 Переход в IT из технической профессии.
